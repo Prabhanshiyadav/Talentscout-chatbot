@@ -31,14 +31,14 @@ It collects candidate details, analyzes their tech stack, and generates **custom
 
 ### 🧰 Requirements
 
-streamlit
-PyPDF2
-SpeechRecognition
-pydub
-transformers
-torch
-langdetect
-fpdf
+- streamlit
+- PyPDF2
+- SpeechRecognition
+- pydub
+- transformers
+- torch
+- langdetect
+- fpdf
 
 
 ### 🔧 Installation
