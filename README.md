@@ -31,9 +31,15 @@ It collects candidate details, analyzes their tech stack, and generates **custom
 
 ### 🧰 Requirements
 
-- Python 3.8+
-- pip
-- Virtualenv (recommended)
+streamlit
+PyPDF2
+SpeechRecognition
+pydub
+transformers
+torch
+langdetect
+fpdf
+
 
 ### 🔧 Installation
 
